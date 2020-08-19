@@ -1,0 +1,11 @@
+{
+  "name": "HighTechU Say What You See Example App",
+  "description": "A series of images is shown to the user and they can guess what common word or phrase it the images represent",
+  "repository": "https://github.com/hightechu/<your app name>",
+  "keywords": ["react", "javascript", "game"],
+  "buildpacks": [
+    {
+      "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/mars/create-react-app.tgz"
+    }
+  ]
+}
